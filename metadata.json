@@ -1,0 +1,6 @@
+{
+  "name": "Doc Text Replacer & Counter",
+  "description": "An elegant document tool that connects with Google Docs and Drive to analyze, count letters, and find and replace text in your documents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
